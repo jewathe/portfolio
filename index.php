@@ -100,7 +100,7 @@
     </div>
   </section>
   <section class="services" id="services">
-    <h2 class="heading">Quelques r&eacute;alisatios:</h2>
+    <h2 class="heading">R&eacute;alisatios:</h2>
     <div class="services-container">
       <div class="service-box">
         <div class="service-info">
@@ -147,6 +147,17 @@
             robustes et d'API RESTful Spring Boot.
             Conception et gestion de bases de données MySQL.
             <a href="https://github.com/jewathe/spring-boot-recipe" class="plus"><i class='bx bxl-github'></i></box-icon></i></a>
+          </p>
+
+        </div>
+      </div>
+	  <div class="service-box">
+        <div class="service-info">
+          <h4>Développeur Rest API avec .Net Core</h4>
+          <p> Conception et développement de serveurs
+            robustes et d'API RESTful .Net Core.
+			Tester l'op&eacute;ration CRUD avec Postman.
+            <a href="https://github.com/jewathe/CRUD-REST-API-NET_CORE" class="plus"><i class='bx bxl-github'></i></box-icon></i></a>
           </p>
 
         </div>
