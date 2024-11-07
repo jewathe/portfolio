@@ -244,22 +244,22 @@ span {
 	0%,
 	30% {
 
-		content: " Développeur Full Stack";
+		content: "Full Stack Developer ";
 	}
 
 	31%,
 	60% {
-		content: " Développeur Front-End";
+		content: "Front-End Developer";
 	}
 
 	61%,
 	80% {
-		contentent: " Testeur Logiciel"
+		contentent: "Software Tester"
 	}
 
 	81%,
 	100% {
-		content: " Développeur Back-End";
+		content: "Back-End Developer";
 	}
 
 }
